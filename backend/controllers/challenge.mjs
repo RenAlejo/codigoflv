@@ -73,4 +73,19 @@ const deleteChallenge = async (req, res) => {
   }
 };
 
+
+// // Editar Reto
+
+// const deleteChallenge = async (req, res) => {
+
+//   try {
+
+//   } catch (error) {
+
+//   }
+  
+// }
+
+
+
 export { addChallenge, viewChallenge, viewOneChallenge, deleteChallenge };
